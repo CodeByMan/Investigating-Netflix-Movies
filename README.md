@@ -122,8 +122,8 @@ This project demonstrates how Python can be used to explore real-world entertain
 
 ## 👤 Author
 
-**Muhammad Ali Nawaz**
-Data Analyst 
+**Muhammad Ali Nawaz**  
+Data Analyst
 
 ---
 
