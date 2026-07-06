@@ -123,6 +123,18 @@ This project demonstrates how Python can be used to explore real-world entertain
 ## 👤 Author
 
 **Muhammad Ali Nawaz**
-**Data Analyst**
+Data Analyst 
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT license](LICENSE).
+
+---
+
+<p align="center">
+  <b>⭐ If you like this project, consider starring the repository!</b>
+</p>
 
 
