@@ -1,0 +1,30 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.jupyter/
+*.nbconvert.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python packaging/cache
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
